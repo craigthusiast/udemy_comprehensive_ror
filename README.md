@@ -4,19 +4,22 @@ Markdown Syntax Tutorial (use === for h1)
 This is an h2 heading (use ----)
 --------------------------------
 
-### This README would normally document whatever steps are necessary to get the.
-### application up and running, but it's a Markdown syntax tutorial instead.
+This README would normally document whatever steps are necessary to get the.
+application up and running, but it's a Markdown syntax tutorial instead..
+Use a period at end of line for a line break.
 
-This is a normal paragraph with a [link to craigthusiast.com](http://www.craigthusiast.com).
+This is a normal paragraph with a link to [craigthusiast.com](http://www.craigthusiast.com).
+Surround the link text in square brackets and immediately follow with URL around parentheses.
 
 > ## Block quotes are useful for highlighting a key theme.
-> Use > ## for first line and > for additional lines.
-> What do you think of this so far?
+> Mix in > ## headings or normal paragraph lines with starting with > symbol.
+> What do you think of this tutorial so far?
 
+## Text Formatting
 What if you want to format text as *italics* or **bold**? 
 Surround words in single star for italics and double star for bold.
 
-### Here are some bullets. 
+### Here are some bullets (use ### for no horizontal rule)
 Use star, plus, or minus sign. They're all the same.
 
 * Ruby version
