@@ -7,8 +7,9 @@ This is an h2 heading (use ----)
 This README would normally document whatever steps are necessary to get the
 application up and running, but it's a Markdown syntax tutorial instead.
 
-When you do want to insert a <br /> break tag using Markdown, you end a line with  
-two or more spaces, then type return.
+When you do want to insert a break tag <br /> in Markdown, you can either use an html br tag,  
+or you can end a line with two or more spaces,  
+then type return.
 
 This is a normal paragraph with a link to [craigthusiast.com](http://www.craigthusiast.com).
 Surround the link text in square brackets and immediately follow with URL around parentheses.
@@ -44,4 +45,4 @@ Use star, plus, or minus sign. They're all the same.
 * Services (job queues, cache servers, search engines, etc.)
 * Deployment instructions
 
-For more in-depth tutorial, refer to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard.
+For more in-depth tutorial, refer to Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
