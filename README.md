@@ -7,6 +7,9 @@ This is an h2 heading (use ----)
 This README would normally document whatever steps are necessary to get the
 application up and running, but it's a Markdown syntax tutorial instead.
 
+When you do want to insert a <br /> break tag using Markdown, you end a line with  
+two or more spaces, then type return.
+
 This is a normal paragraph with a link to [craigthusiast.com](http://www.craigthusiast.com).
 Surround the link text in square brackets and immediately follow with URL around parentheses.
 
@@ -17,6 +20,11 @@ Surround the link text in square brackets and immediately follow with URL around
 ## Text Formatting
 What if you want to format text as *italics* or **bold**? 
 Surround words in single star for italics and double star for bold.
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Combined emphasis with **asterisks and _underscores_**.
+Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## Reasons to use proper formatting in markdown:
 
@@ -35,3 +43,5 @@ Use star, plus, or minus sign. They're all the same.
 * How to run the test suite
 * Services (job queues, cache servers, search engines, etc.)
 * Deployment instructions
+
+For more in-depth tutorial, refer to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by Adam Pritchard.
