@@ -22,9 +22,9 @@ Surround the link text in square brackets and immediately follow with URL around
 What if you want to format text as *italics* or **bold**? 
 Surround words in single star for italics and double star for bold.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-Combined emphasis with **asterisks and _underscores_**.
+Emphasis, aka italics, with *asterisks* or _underscores_.  
+Strong emphasis, aka bold, with **asterisks** or __underscores__.  
+Combined emphasis with **asterisks and _underscores_**.  
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## Reasons to use proper formatting in markdown:
