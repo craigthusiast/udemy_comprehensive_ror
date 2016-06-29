@@ -14,7 +14,7 @@ then type return.
 This is a normal paragraph with a link to [craigthusiast.com](http://www.craigthusiast.com).
 Surround the link text in square brackets and immediately follow with URL around parentheses.
 
-This is what Ruby code looks like when surrounded by single quotes: 'puts 'Hello World!''
+This is what Ruby code looks like when surrounded by single quotes: `puts 'Hello World!'`
 
 > ## Block quotes are useful for highlighting a key theme.
 > Mix in > ## headings or normal paragraph lines with starting with > symbol.
